@@ -26,4 +26,5 @@ puts  <<~TEXTO
     Nome do Filme: #{name}
     Ano de Lançamento: #{yearLaunch}
     Preço do filme: #{price}
-TEXTO   
+TEXTO
+
